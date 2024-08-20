@@ -1,9 +1,9 @@
-This project involves analyzing a sample dataset using Excel to gain insights into customer behavior related to bike purchases. The analysis includes creating pivot tables to explore key metrics, visualizing these metrics through charts, and providing interactivity with slicers on a dedicated dashboard.
+This project involves analyzing a sample dataset using Google Sheets to gain insights into customer behavior related to bike purchases. The analysis includes creating pivot tables to explore key metrics, visualizing these metrics through charts, and providing interactivity with slicers on a dedicated dashboard.
 
 How to Use the Dashboard
 
 Open the Workbook:
-Open the BikePurchaseAnalysis.xlsx file in Excel.
+Open the [BikePurchaseAnalysis](https://docs.google.com/spreadsheets/d/1nPJaNO8JT6Tmgvu4Gq4XoNbdD91xybOyLBrLd69RPK4/edit?usp=sharing) in Google Sheets.
 Navigate to the Dashboard:
 Click on the "Dashboard" sheet to view the interactive dashboard.
 Interact with the Slicers:
